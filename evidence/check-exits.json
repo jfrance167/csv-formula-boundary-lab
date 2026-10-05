@@ -1,0 +1,10 @@
+{
+  "normal_tests": 0,
+  "optimized_tests": 0,
+  "demo": 0,
+  "mutations": 0,
+  "bandit": 0,
+  "workflow": 0,
+  "optimized_workflow": 0,
+  "pip_check": 0
+}

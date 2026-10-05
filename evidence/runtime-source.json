@@ -1,0 +1,39 @@
+{
+  "python": "3.13.7",
+  "implementation": "CPython",
+  "platform": "Windows",
+  "source_sha256": [
+    {
+      "path": "csv_boundary/__init__.py",
+      "sha256": "29d59f6b561c36b8e78acd523993981a0489a27a16604bbfce819a4110ccf410"
+    },
+    {
+      "path": "csv_boundary/__main__.py",
+      "sha256": "bc749c019ce4ded2a966a0cb135b6eccbbfc49855775ca3db4a2c078cbacdb1e"
+    },
+    {
+      "path": "csv_boundary/core.py",
+      "sha256": "41071a5d47860b224f16b68166913427ce0c607d83c9b5bf9702fcd4ebe8619d"
+    },
+    {
+      "path": "csv_boundary/fixtures.py",
+      "sha256": "86f69d362e97311689907bf43cde4bd4592d4f038649682342f3e5fe2b24e234"
+    },
+    {
+      "path": "tools/check_mutations.py",
+      "sha256": "532f001329abc15f25bcb4947124c0238d189f1db0fdd42efe79857b15bf67bf"
+    },
+    {
+      "path": "tools/verify_workflows.py",
+      "sha256": "db2151ff5b5fd6ba0af62fcf4d4728009b978c94c7b32a5a45145468790fbbc2"
+    },
+    {
+      "path": "tests/test_cli.py",
+      "sha256": "fa97bbbc5567e1facc7c419f5e5e125ce9b58dba3d3edb849e007793c778749f"
+    },
+    {
+      "path": "tests/test_core.py",
+      "sha256": "abd8a1fd48999c95e7c054967553af6bed653d2f11d59421831b4ab3295f56b8"
+    }
+  ]
+}

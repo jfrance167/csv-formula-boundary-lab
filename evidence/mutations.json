@@ -1,0 +1,14 @@
+{
+  "mutations": [
+    {
+      "mutation": "missing_ascii_markers",
+      "detected": true
+    },
+    {
+      "mutation": "wrong_record_newline",
+      "detected": true
+    }
+  ],
+  "restored_tests_pass": true,
+  "scope": "two in-memory changes; no source mutation"
+}

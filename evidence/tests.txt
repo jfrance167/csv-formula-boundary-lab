@@ -1,0 +1,28 @@
+test_demo (test_cli.CliTests.test_demo) ... ok
+test_exit_outcomes (test_cli.CliTests.test_exit_outcomes) ... ok
+test_failed_read_write_flush_and_short_write (test_cli.CliTests.test_failed_read_write_flush_and_short_write) ... ok
+test_input_read_is_bounded (test_cli.CliTests.test_input_read_is_bounded) ... ok
+test_output_limit_is_incomplete_exit_even_in_demo (test_cli.CliTests.test_output_limit_is_incomplete_exit_even_in_demo) ... ok
+test_ascii_and_fullwidth_markers (test_core.CoreTests.test_ascii_and_fullwidth_markers) ... ok
+test_byte_limit_precedes_parser_and_utf8 (test_core.CoreTests.test_byte_limit_precedes_parser_and_utf8) ... ok
+test_consumer_unverified_for_every_outcome (test_core.CoreTests.test_consumer_unverified_for_every_outcome) ... ok
+test_each_table_limit_boundary_and_one_over (test_core.CoreTests.test_each_table_limit_boundary_and_one_over) ... ok
+test_exact_types_and_no_custom_iteration_or_coercion (test_core.CoreTests.test_exact_types_and_no_custom_iteration_or_coercion) ... ok
+test_first_row_uniform_no_header_guess (test_core.CoreTests.test_first_row_uniform_no_header_guess) ... ok
+test_fixed_quote_newline_and_nul_literals (test_core.CoreTests.test_fixed_quote_newline_and_nul_literals) ... ok
+test_fixed_serialization_and_coordinates (test_core.CoreTests.test_fixed_serialization_and_coordinates) ... ok
+test_forbidden_execution_launch_file_and_network_capabilities (test_core.CoreTests.test_forbidden_execution_launch_file_and_network_capabilities) ... ok
+test_invalid_and_ragged_shapes (test_core.CoreTests.test_invalid_and_ragged_shapes) ... ok
+test_json_depth_and_escaped_structural_text (test_core.CoreTests.test_json_depth_and_escaped_structural_text) ... ok
+test_json_duplicate_unknown_shape_and_encoding (test_core.CoreTests.test_json_duplicate_unknown_shape_and_encoding) ... ok
+test_json_numeric_bounds_versions_and_constants (test_core.CoreTests.test_json_numeric_bounds_versions_and_constants) ... ok
+test_non_idempotent_and_original_preservation (test_core.CoreTests.test_non_idempotent_and_original_preservation) ... ok
+test_output_escaping_bounds_and_determinism (test_core.CoreTests.test_output_escaping_bounds_and_determinism) ... ok
+test_roundtrip_mismatch_cannot_report_complete (test_core.CoreTests.test_roundtrip_mismatch_cannot_report_complete) ... ok
+test_space_control_and_format_policy (test_core.CoreTests.test_space_control_and_format_policy) ... ok
+test_surrogates_rejected_without_replacement (test_core.CoreTests.test_surrogates_rejected_without_replacement) ... ok
+
+----------------------------------------------------------------------
+Ran 23 tests in 0.065s
+
+OK
